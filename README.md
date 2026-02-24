@@ -17,4 +17,5 @@ Turbo Motor (Threading): Arayüzü dondurmadan arka planda çalışan multi-thre
 Esnek Dışa Aktarım: Sonuçları .txt, .json veya sıkıştırılmış .zip formatlarında kaydedebilir.
 
 Gelişmiş Filtreleme: Üretilen devasa listeler içerisinde gerçek zamanlı arama ve önizleme imkanı sunar.
+Not: Bu araç eğitim ve etik sızma testi süreçleri için geliştirilmiştir.
 
