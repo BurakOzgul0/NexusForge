@@ -1,0 +1,11 @@
+# PyInstaller Klasörleri
+build/
+dist/
+*.spec
+
+# Gereksiz Sistem Dosyaları
+__pycache__/
+*.exe
+*.zip
+*.txt
+*.json
