@@ -3,7 +3,6 @@ NexusForge, siber güvenlik araştırmacıları ve sızma testi uzmanları için
 
 Öne Çıkan Özellikler:
 Çoklu Mod Desteği:
-
 Klasik Mod: Belirli anahtar kelimeleri sayılar ve sembollerle kombine ederek hızlı listeler oluşturur.
 
 OSINT Modu: Hedef profile ait ad, soyad ve doğum tarihi gibi sosyal mühendislik verilerini birleştirerek kişiselleştirilmiş tahmin listeleri hazırlar.
