@@ -38,7 +38,7 @@ class NexusForgeApp:
         ust_bar = tk.Frame(self.root, bg=self.BG_DARK, height=60)
         ust_bar.pack(fill=tk.X, side=tk.TOP)
         
-        baslik = tk.Label(ust_bar, text="ZGL", 
+        baslik = tk.Label(ust_bar, text="NexusForge", 
                           bg=self.BG_DARK, fg=self.ACCENT_COLOR, font=("Consolas", 20, "bold"))
         baslik.pack(pady=15)
 
